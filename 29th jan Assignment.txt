@@ -1,0 +1,50 @@
+1. python language was developed by Guido Van Rossum
+
+2. Python supports functional , object oriented and procedural programming and also supports dynamic programming .
+
+3. Yes python is case sensitive when dealing with identifiers
+
+4. .py is the correct extension of the python file 
+
+5. Interpreted -> python code is Interpreted 
+
+6. block of code in python -> if-else or if-elif-else
+    if condition :
+        print("if the condition is true, i will execute)
+    else :
+        print("else i will execute")
+
+7. # this is the comment
+
+8. sys.version is the function by using it we ca get the current version in which we are working .
+
+9. Lambda
+
+10. Pip Installs Packages
+
+11. len() , str() , int(), float(), print(), input() etc are the inbuilt functions in python
+
+12. 79 characters 
+
+13. 1. python language is easy to learn as it is a user friendly language .
+    2. It is Open source and has large active community base
+    3. It is Versatile, Easy to read, learn and write
+
+14. Memory allocation in python -
+    There are two parts of memory:
+    1.stack memory
+    2.heap memory
+    The methods/method calls and the references are stored in stack memory and all the values objects are stored in a private heap.
+
+15. 1- Installing Python from Python.org
+    Go on Python.org at the section where you can download the windows executables
+
+    2- Set Environment variables
+    Now click the “Environmental Variables” button
+    There will be two categories namely “User” and “System”, we have to add it in Users, click on New button in the User section. Now, add a Variable Name and Path which we copied previously and click OK. That’s it, DONE!
+
+    3-Check if the Environment variable is set or not
+
+    Now, after adding the Python to the Environment variable, let’s check if the Python is running anywhere in the windows or not. To do this open CMD and type Python. If the environment variable is set then the Python command will run otherwise not.
+
+16. yes indentation is required in python . in other language we have {} curly braces to define a block , but in python we use indentation to define a block
